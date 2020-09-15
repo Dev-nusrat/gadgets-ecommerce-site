@@ -1,0 +1,57 @@
+.container{
+    margin-bottom: 80px;
+}
+p{
+    color: grey;
+}
+.logo{
+    height: 60px;
+}
+.carousel-item{
+    padding: 20px 30px;
+}
+.bg-1{
+background:url(images/bg-2.png) no-repeat;
+background-position: left bottom;
+}
+.bg-2{
+    background:url(images/bg-1.png) no-repeat;
+    }
+    .buy-now{
+        background:black;
+        color: white;
+        cursor: pointer;
+        border-radius: 8px;
+        border: none;
+        padding: 10px 20px;
+        text-align:center;
+        font-weight: 600;
+        text-transform: uppercase;
+    }
+    .text-clr{
+        color: orange;
+    }
+    .card{
+         
+        padding: 30px 40px;
+        text-align: center;
+    }
+
+.beauty{
+    box-shadow: 5px 5px 10px lightgray;
+    width: 150px;
+    padding: 15px 5px;
+    text-align: center;
+}
+.categorie{
+    text-align: center;
+}
+.bdr {
+    
+    background-image: linear-gradient(to right, #FFD14C 0%, #FFA237 100%);
+    display: flex;
+    align-items: center;
+    width: 10%;
+    height: 5px;
+    margin: 0 auto;
+}
